@@ -8,11 +8,11 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.mjs
-    siteTitle: `dev.potapoyo.com`,
+    siteTitle: `開発用ぽたぽよドットコム`,
     siteTitleAlt: `開発用ぽたぽよドットコム`,
     siteHeadline: `開発用ぽたぽよドットコム`,
     siteUrl: `https://dev.potapoyo.com`,
-    siteDescription: `ぽたぽよのホームページです。`,
+    siteDescription: `開発用ぽたぽよホームページです。`,
     siteImage: `/banner.jpg`,
     siteLanguage: `ja`,
     author: `@potapoyo`,
