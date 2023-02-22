@@ -43,7 +43,7 @@ const config: GatsbyConfig = {
             url: `https://www.instagram.com/potapoyo`,
           },
           {
-            name: `Misskey(virtualkemomimi)`,
+            name: `Misskey`,
             url: `https://virtualkemomimi.net/`,
           },
         ],
