@@ -47,7 +47,7 @@ const config: GatsbyConfig = {
             url: `https://virtualkemomimi.net/`,
           },
         ],
-        formatString: `YYYY-MM-DD.`,
+        formatString: `YYYY-MM-DD`,
       },
     },
     {
