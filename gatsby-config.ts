@@ -51,6 +51,9 @@ const config: GatsbyConfig = {
       },
     },
     {
+      resolve: `gatsby-plugin-twitter`
+    },
+    {
       resolve: `gatsby-plugin-sitemap`,
       options: {
         output: `/`,
