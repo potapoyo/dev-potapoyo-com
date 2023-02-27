@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `開発用ぽたぽよドットコム`,
     siteTitleAlt: `開発用ぽたぽよドットコム`,
     siteHeadline: `開発用ぽたぽよドットコム`,
-    siteUrl: `https://dev.potapoyo.com`,
+    siteUrl: `https://dev-potapoyo-com.pages.dev/`,
     siteDescription: `開発用ぽたぽよホームページです。`,
     siteImage: `/banner.jpg`,
     siteLanguage: `ja`,
